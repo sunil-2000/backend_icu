@@ -1,1 +1,2 @@
-# backend_icu
+# Backend for hospital icu web appication (covid)
+#### Hosted on Heroku 
